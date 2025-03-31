@@ -8,7 +8,7 @@
 ## Мои навыки
 - **Языки программирования:** Python (продвинутый), C++ (средний)
 - **Фреймворки:** TensorFlow, PyTorch, OpenCV, Scikit-learn
-- **Инструменты:** Git, Docker, Linux, Jupyter Notebook
+- **Инструменты:** Git, Docker, Linux, Jupyter Notebook, Anaconda, Label-studio
 
 ## Мои проекты
 - [Личное не публичное]()
